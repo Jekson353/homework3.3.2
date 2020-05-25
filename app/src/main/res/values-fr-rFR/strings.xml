@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">homework3.3.2</string>
+    <string name="apply">Appliquer</string>
+    <string name="select_language">On choisit la langue française</string>
+    <string-array name="language">
+        <item>Русский</item>
+        <item>English</item>
+        <item>French</item>
+    </string-array>
+</resources>
